@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Goblin Camp",
+    "items": {
+      "sword": 1,
+      "shield": 1,
+      "potion": 2
+    }
+  },
+  {
+    "name": "Dragon Slayer",
+    "items": {
+      "sword": 1,
+      "potion": 5,
+      "fire_resist": 1,
+      "rope": 1
+    }
+  },
+  {
+    "name": "Village Rescue",
+    "items": {
+      "sword": 1,
+      "potion": 1,
+      "torch": 2
+    }
+  },
+  {
+    "name": "Treasure Hunt",
+    "items": {
+      "map": 1,
+      "shovel": 1,
+      "rope": 2,
+      "torch": 1
+    }
+  },
+  {
+    "name": "Bandit Hideout",
+    "items": {
+      "sword": 1,
+      "shield": 1,
+      "potion": 3,
+      "rope": 1
+    }
+  },
+  {
+    "name": "Dark Cave",
+    "items": {
+      "torch": 3,
+      "rope": 1,
+      "potion": 2
+    }
+  },
+  {
+    "name": "Merchant Escort",
+    "items": {
+      "sword": 1,
+      "shield": 1,
+      "potion": 1
+    }
+  },
+  {
+    "name": "Lost Artifact",
+    "items": {
+      "map": 1,
+      "shovel": 1,
+      "torch": 2,
+      "potion": 1
+    }
+  },
+  {
+    "name": "Quick Delivery",
+    "items": {
+      "rope": 1,
+      "torch": 1
+    }
+  }
+]
+

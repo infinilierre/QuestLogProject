@@ -1,0 +1,6 @@
+{
+  "quest_file": "data/quests.json",
+  "inventory_file": "data/inventory.json",
+  "report_file": "reports/report.txt"
+}
+

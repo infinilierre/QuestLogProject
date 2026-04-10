@@ -1,0 +1,8 @@
+SUCCESS: ADD potion 5
+SUCCESS: ADD fire_resist 2
+SUCCESS: ADD rope 2
+SUCCESS: ADD map 1
+ERROR: Not enough sword. Have: 2, Need: 3
+SUCCESS: ADD shovel 1
+SUCCESS: ADD torch 2
+ERROR: Unknown command 'DROP'

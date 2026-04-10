@@ -1,0 +1,10 @@
+{
+    "sword": 2,
+    "shield": 1,
+    "potion": 8,
+    "torch": 4,
+    "rope": 3,
+    "map": 1,
+    "shovel": 1,
+    "fire_resist": 2
+}

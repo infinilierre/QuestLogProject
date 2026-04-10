@@ -1,0 +1,9 @@
+ADD potion 5
+ADD fire_resist 2
+ADD rope 2
+ADD map 1
+USE sword 3
+ADD shovel 1
+ADD torch 2
+DROP potion 3
+
